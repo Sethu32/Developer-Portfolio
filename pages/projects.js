@@ -16,7 +16,8 @@ const Projects = () => (
         <li><a href="https://comm-forum-1.herokuapp.com/"> Community Forum </a></li>
         <br/>
         <li><a href="https://developer-portfolio-2.heroku.app/"> Developer Portfolio </a></li>
-   
+        <br/>
+        <li><a href="https://mysterious-tor-16504.herokuapp.com/">Minesweeper</a></li>
     </div>
 )
 export default Projects;
